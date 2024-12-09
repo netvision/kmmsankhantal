@@ -1,7 +1,7 @@
 <script setup>
-	import slide from '@/assets/building.jpg';
+	import slide from '@/assets/kmmbuilding.jpg';
 	useHead({
-		title: 'Kothari Mahila Mahavidyalay',
+		title: 'Kothari Mahila Mahavidyalay, Sankhantal, Churu, Rajasthan',
 	});
 	onMounted(async () => {
 		const { Carousel, initTWE } = await import("tw-elements");
