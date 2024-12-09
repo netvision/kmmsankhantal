@@ -8,8 +8,6 @@ const menuItems = [
 			subMenu: [
 				{ label: 'Land Document', url: '/land' },
 				{ label: 'Land Coversion', url: '/conversion' },
-				{ label: 'Building Map', url: '/map' },
-				{ label: 'Society Registration', url: '/society' },
 				{ label: 'Govt. NOC', url: '/noc' },
 				{ label: 'NCTE Recognition', url: '/ncte' },
 				{ label: 'Latest Balance Sheet', url: '/balancesheet' }
